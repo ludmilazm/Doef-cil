@@ -1,7 +1,7 @@
 
 # Doef-cil
 <p align="center">
-  <img src="doefacil.png" alt="Logo DoeFácil" width="200"/>
+  <img src="doefacil.png" alt="Logo" width="200"/>
 </p>
 doefacil.png
 
