@@ -1,5 +1,9 @@
 
 # Doef-cil
+<p align="center">
+  <img src="doefacil.png" alt="Logo DoeFácil" width="200"/>
+</p>
+doefacil.png
 
 > Sistema de doações desenvolvido em Java utilizando padrões de projeto.
 
